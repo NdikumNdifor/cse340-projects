@@ -14,3 +14,9 @@ node_modules
 
 # .DS_Store is only for Mac users
 **/.DS_Store
+
+# Adding the README.md to be ignored
+README.md
+
+# Telling git to igngore yam file
+pnpm-lock.yaml
