@@ -35,6 +35,19 @@ body {
   font-size: 0.8rem;
 }
 
+/************ Styling for navigation *************/
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  font-size: 0.8rem;
+  justify-content: space-between;
+  padding: 1rem 0.5rem;
+  color: #fff;
+  background: #081636;
+}
+
+
 
 
 
