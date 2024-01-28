@@ -4,3 +4,8 @@
 *:after {
   box-sizing: border-box;
 }
+
+body {
+  background-image: url(/image/site/check_small.png);
+}
+ 
