@@ -5,11 +5,38 @@
   box-sizing: border-box;
 }
 
-#top-header {
-  background-color: aqua;
+
+/***************** STYLING FOR THE INDEX PAGE **************/
+body {
+  background-image: url(/images/site/small_check.jpg);
 }
 
-body {
-  background-image: url(/image/site/check_small.png);
+#wrapper {
+  background-color: whitesmoke;
 }
- 
+
+/************** Styling the header ******************/
+#top-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0.5rem;
+}
+
+.siteName a, #tools a {
+  text-decoration: none;
+  color: #212121;
+}
+
+.siteName a {
+  font-size: 1.2rem;
+}
+
+#tools a{
+  font-size: 0.8rem;
+}
+
+
+
+
+
+
