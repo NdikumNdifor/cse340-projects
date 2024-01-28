@@ -5,6 +5,10 @@
   box-sizing: border-box;
 }
 
+#top-header {
+  background-color: aqua;
+}
+
 body {
   background-image: url(/image/site/check_small.png);
 }
